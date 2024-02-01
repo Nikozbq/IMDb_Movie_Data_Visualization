@@ -1,0 +1,17 @@
+This is the instrucion for all codes resource used in our STAT401_Group9_Final_Project. Just place all files in same path and read the Readme for detailed instruction.
+
+#1 Final_IMDb_Scraper.ipynb: Including all scraper for our raw dataset. Can scraper web data from IMDb-Genres(after filtered), IMDb-chartbox(after selected), and IMDb-top(after filtered). The first process of data cleaning during scraper also included. Just replace the html link in the code and run all to get raw dataset.
+
+#2 Data_cleaning.ipynb: For second process of data cleaning based on raw dataset scraped from Final_IMDb_Scraper.ipynb. Just run and get .csv for later visualization
+
+#3 dashboard.html: Our final five visualizations in one dashboard. Click and see our final visulaizations and interactions
+
+#4 heatmap.html: Our visualization for heatmap presentation.
+
+#4 map.html: Our visualization for world map presentation.
+
+#4 parallel.html: Our visualization for parallelplot presentation.
+
+#4 timeriver.html: Our visualization for timeriver presentation.
+
+#4 word_cloud.html: Our visualization for word cloud presentation.
