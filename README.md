@@ -6,7 +6,7 @@ If you wish to run our code to see the visualization, please read below:
 
 Simply put all the files in the same path and run dashboard.html using Vscode (recommended).
 
-#1 Final_IMDb_Scraper.ipynb: Includes all the scraper from our original dataset. can grab web data from IMDb-Genres (after filtering), IMDb-chartbox (after selection) and IMDb-top (after filtering). Also included is the first data cleaning step in the scraping process. Simply replace the html links in the code and run all the programs to get the raw dataset.
+#1 Final_IMDb_Scraper.ipynb: Can grab web data from IMDb-Genres (after filtering), IMDb-chartbox (after selection) and IMDb-top (after filtering). Also included is the first data cleaning step in the scraping process. Simply replace the html links in the code and run all the programs to get the raw dataset.
 
 #2 Data_cleaning.ipynb: The second process of data cleaning based on the raw data set grabbed from Final_IMDb_Scraper.ipynb. Simply run it and fetch the .csv file for later visualization.
 
